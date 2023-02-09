@@ -17,6 +17,7 @@ public class Remoto {
         System.out.println("hola que tal");
         System.out.println("soy mjpardo");
         System.out.println("Programacion dam");
+        System.out.println("soy mjpardo otra vez");
     }
     
 }
